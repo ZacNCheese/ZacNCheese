@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[[linkedin](./img/linkedin-light.svg)]
+[[linkedin]]
 &nbsp;&nbsp;
-[[instagram](./img/instagram-light.svg)]
+[[instagram]]
 
 ### Languages and Tools:
 
