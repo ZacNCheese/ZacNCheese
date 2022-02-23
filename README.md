@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning as much as possible 🤣
 - 🥅 2022 Goals: Learn more about Web Development
+- I do most of my projects at work - which I am not allowed to post on here (obiously).
 
 ### Connect with me:
 
