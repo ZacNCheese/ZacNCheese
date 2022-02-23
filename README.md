@@ -21,6 +21,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)&psig=AOvVaw2jBLAbgNRtB4zwvnUNJVyX&ust=1645670899094000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCIgf_nlPYCFQAAAAAdAAAAABAD" style="padding-right:10px;" />
 
 <br />
 <br />
