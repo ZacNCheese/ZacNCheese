@@ -7,10 +7,9 @@
 
 ### Connect with me:
 
-[[linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/zachary-springman-7b4745165/)
+[[linkedin](./img/linkedin-light.svg)]
 &nbsp;&nbsp;
-[[instagram](./img/instagram-light.svg)](https://www.instagram.com/zachary.https/)
-
+[[instagram](./img/instagram-light.svg)]
 
 ### Languages and Tools:
 
