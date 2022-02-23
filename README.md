@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zachary-springman-7b4745165/)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/zachary-springman-7b4745165/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/zachary.https/)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/zachary.https/)
 
 
 ### Languages and Tools:
@@ -36,8 +36,8 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/zachary.https/
+[linkedin]: https://www.linkedin.com/in/zachary-springman-7b4745165/
 
 
 
