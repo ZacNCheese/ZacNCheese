@@ -1,9 +1,9 @@
-# Hi there, I'm Zach 👋 
+# Hi there, I'm Zachary 👋 
 
-## I'm a Web Devloper and Full Time Student!!
+## I'm a Software and Applications Developer!
 
 - 🌱 I’m currently learning as much as possible 🤣
-- 🥅 2022 Goals: Learn more about Web Development
+- 🥅 2023 Goals: Dive into the react native development space.
 - 🖥️ I do most of my projects at work - which I am not allowed to post on here (obviously).
 
 ### Connect with me:
