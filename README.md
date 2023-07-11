@@ -2,7 +2,7 @@
 
 ## I'm a Software and Applications Developer!
 
-- 🌱 I’m currently learning as much as possible 🤣
+- 🌱 I’m currently learning as much as possible 
 - 🥅 2023 Goals: Dive into the react native development space.
 - 🖥️ I do most of my projects at work - which I am not allowed to post on here (obviously).
 
