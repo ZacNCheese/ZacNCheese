@@ -1,9 +1,9 @@
 # Hi there, I'm Zachary 👋 
 
-## I'm a Software and Applications Developer!
+## I'm a Software Engineer!
 
 - 🌱 I’m currently learning as much as possible 
-- 🥅 2023 Goals: Dive into the react native development space.
+- 🥅 2025 Goals: Dive into the react native development space.
 - 🖥️ I do most of my projects at work - which I am not allowed to post on here (obviously).
 
 ### Connect with me:
@@ -40,6 +40,7 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/zachary.https/
 [linkedin]: https://www.linkedin.com/in/zachary-springman-7b4745165/
+
 
 
 
